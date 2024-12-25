@@ -1,0 +1,23 @@
+{
+    "name": "bertragung-blob-master-mini-py_update-13hex",
+    "dependencies": {
+        "core": "*",
+        "bertragung": "github:dammo44/bertragung"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.3",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
